@@ -1,4 +1,4 @@
-#Valley of Snow - Araxia Server
+# Valley of Snow - Araxia Server
 
 Welcome to the repository for Morza Island on the Azerothcore platform. Below you'll find all the essential resources and credits for the contributions to this project.
 
