@@ -23,7 +23,7 @@ Special thanks to NotCoffee418 and RStijn for their contributions to custom maps
 
 | Name                          | ID     | Type        | Sub Type                                  |
 |-------------------------------|--------|-------------|-------------------------------------------|
-| Water Barrell                 | 3658   | Game Object | Resource                                  |
+| Snowberry Bush                | 900900  | Game Object | Resource                                  |
 
 
 
@@ -38,4 +38,4 @@ Special thanks to NotCoffee418 and RStijn for their contributions to custom maps
 ## Items Zone Information
 | Name                           | ID                           |
 |--------------------------------|------------------------------|
-| Commander Snarltooth Ironhide Head | 300300                       |
+| Snowberry | 900900                       |
