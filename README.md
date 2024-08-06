@@ -29,10 +29,10 @@ Special thanks to NotCoffee418 and RStijn for their contributions to custom maps
 
 
 ## Quest Zone Information
-| Quest Name                         | Quest Number | Daily |
-|------------------------------------|--------------|-------|
-| Gathering Snowberries                   | 90080        |    |
-| Deliver the Winterbrew | 90081 | |
+| Quest Name                         | Quest Number | 
+|------------------------------------|--------------|
+| Gathering Snowberries                   | 90080 |
+| Deliver the Winterbrew | 90081 |
 
 
 ## Items Zone Information
